@@ -1,4 +1,4 @@
-# Nestle-CRM
+# ETA-YandexGeocoder
 Use python script to get dataset addresses of retail outlets by nearest coordinates of Yandex
 
 For use this script, you need:
